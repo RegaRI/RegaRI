@@ -1,12 +1,12 @@
 <h1 align="center">Rega</h1>
-<h3 align="center">Computer Science Student — Machine Learning & App Development</h3>
+<h3 align="center">Computer Science Student — Machine Learning </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Mining+%26+NLP+Explorer;Flutter+%26+PHP+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F92C85&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Mining+%26+NLP+Explorer;Flutter+%26+PHP+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RegaRI&label=Profile+Views&color=2E9EF7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=RegaRI&label=Profile+Views&color=F92C85&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ### Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flutter,dart,php,html,css,js,mongodb,mysql,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,dart,php,html,css,js,mongodb,mysql,git,vscode,figma&theme=dark" />
 </p>
 
 **Machine Learning & Data:** Scikit-learn, Pandas, NumPy, XGBoost, IndoBERT, Streamlit
@@ -69,12 +69,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RegaRI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegaRI&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RegaRI&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegaRI&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegaRI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegaRI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
