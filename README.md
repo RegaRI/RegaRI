@@ -1,5 +1,5 @@
 <h1 align="center">Rega</h1>
-<h3 align="center">Computer Science Student — Machine Learning </h3>
+<h3 align="center">Computer Science Student — Machine Learning & App Development</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F92C85&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Data+Mining+%26+NLP+Explorer;Flutter+%26+PHP+Web+Developer;Always+Learning+Something+New" alt="Typing SVG" />
@@ -81,11 +81,17 @@
 
 ### Contribution Snake
 
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake.svg" width="100%">
+
+<!--
+Setelah versi dark-mode SVG berhasil di-generate di branch output, ganti blok di atas dengan:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 ---
 
