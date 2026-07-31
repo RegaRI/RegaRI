@@ -1,4 +1,4 @@
-<h1 align="center">Rega</h1>
+<h1 align="center">Rega Refrizal Indrayama</h1>
 <h3 align="center">Computer Science Student — Machine Learning & App Development</h3>
 
 <p align="center">
@@ -69,12 +69,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RegaRI&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegaRI&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RegaRI&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
