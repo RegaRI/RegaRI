@@ -1,4 +1,4 @@
-<h1 align="center">Rega Refrizal Indrayama</h1>
+<h1 align="center">Rega Refrizal Indrayana</h1>
 <h3 align="center">Computer Science Student — Machine Learning & App Development</h3>
 
 <p align="center">
