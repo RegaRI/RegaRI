@@ -22,7 +22,7 @@
 
 <br>
 
-<img width="100%" src="https://img.shields.io/badge/-​-1a1a2e?style=flat-square&height=2">
+---
 
 <br>
 
