@@ -28,11 +28,11 @@ const rega = {
 };
 ```
 
-- 🔭 Currently building an **occupancy forecasting model** and an **AI chatbot** during my internship
-- 🧠 Moving my NLU pipeline from classic **SVM + TF-IDF** toward fine-tuned **IndoBERT**
-- 🤖 Interested in **on-device LLMs** — running chatbots locally with Ollama
-- 📱 Comfortable across both mobile (**Flutter**) and web (**PHP / Flask / React**) development
-- ⚡ Also tinker with hobby electronics — computer-vision side projects for fun
+- Currently building an occupancy forecasting model and an AI chatbot during my internship
+- Moving my NLU pipeline from classic SVM + TF-IDF toward fine-tuned IndoBERT
+- Interested in on-device LLMs — running chatbots locally with Ollama
+- Comfortable across both mobile (Flutter) and web (PHP / Flask / React) development
+- Also tinker with hobby electronics — computer-vision side projects for fun
 
 <br>
 
@@ -44,9 +44,9 @@ const rega = {
 
 <img src="https://skillicons.dev/icons?i=python,dart,php,js,html,css&theme=dark" />
 
-**Frameworks & Data**
+**Frameworks**
 
-<img src="https://skillicons.dev/icons?i=flutter,flask,react,mongodb,mysql,sklearn&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,flask,react,mongodb,mysql&theme=dark" />
 
 **Tools & Platforms**
 
@@ -57,19 +57,19 @@ const rega = {
 <table align="center">
   <tr>
     <td valign="top" width="33%">
-      <strong>🧠 Machine Learning & Data</strong>
+      <strong>Machine Learning & Data</strong>
       <br><br>
       Scikit-learn · Pandas · NumPy<br>
       XGBoost · IndoBERT · Streamlit
     </td>
     <td valign="top" width="33%">
-      <strong>💻 Development</strong>
+      <strong>Development</strong>
       <br><br>
       Flutter · Dart · PHP<br>
       Flask · React · Vite
     </td>
     <td valign="top" width="33%">
-      <strong>🛠️ Tools & Platforms</strong>
+      <strong>Tools & Platforms</strong>
       <br><br>
       Google Colab · Jupyter Notebook<br>
       Git · Ollama (local LLM)
@@ -84,13 +84,13 @@ const rega = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>💬 Sewa Jas Jogja Chatbot</h4>
+      <h4>Sewa Jas Jogja Chatbot</h4>
       A locally-hosted AI chatbot for a suit and shoe rental business, powered by Ollama and Qwen running fully on-device — with multi-turn memory and streaming responses.
       <br><br>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Qwen-F92C85?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Intent Classifier (NLU Pipeline)</h4>
+      <h4>Intent Classifier (NLU Pipeline)</h4>
       An intent and entity extraction pipeline for chatbot routing, evolving from a classic SVM + TF-IDF setup into a fine-tuned IndoBERT model.
       <br><br>
       <img src="https://img.shields.io/badge/IndoBERT-6C2CF9?style=flat-square"/> <img src="https://img.shields.io/badge/SVM-F92C85?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-000000?style=flat-square"/>
@@ -98,13 +98,13 @@ const rega = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 Kos-Kosan Occupancy Forecasting</h4>
+      <h4>Kos-Kosan Occupancy Forecasting</h4>
       An internship deliverable predicting boarding-house occupancy trends, built after exploring ML approaches across several business domains.
       <br><br>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Forecasting-F92C85?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 vhbot — magangjogja.com</h4>
+      <h4>vhbot — magangjogja.com</h4>
       Landing page, admin dashboard, and chatbot for a Yogyakarta internship/PKL placement platform.
       <br><br>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
@@ -112,13 +112,13 @@ const rega = {
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>📝 CihuyNotes</h4>
+      <h4>CihuyNotes</h4>
       A note-taking web app built with PHP and MongoDB Atlas, featuring Google OAuth login for secure, seamless access.
       <br><br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/OAuth-F92C85?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
-      <h4>🖐️ Gesture MP3 Player</h4>
+      <h4>Gesture MP3 Player</h4>
       A computer-vision side project that lets you control music playback using hand gestures — built for fun and experimentation.
       <br><br>
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/MediaPipe-00897B?style=flat-square"/> <img src="https://img.shields.io/badge/Pygame-000000?style=flat-square"/>
@@ -141,21 +141,11 @@ const rega = {
 
 </div>
 
-<br>
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RegaRI/RegaRI/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
 <br><br>
 
 <div align="center">
 
-### 📫 Let's Connect
+### Let's Connect
 
 <i>Thanks for stopping by — feel free to explore my repositories.</i>
 
