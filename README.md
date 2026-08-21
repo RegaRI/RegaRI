@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F92C85,100:6C2CF9&height=220&section=header&text=Rega%20Refrizal%20Indrayana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20ML%20%26%20App%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# Rega Refrizal Indrayana
+
+### Computer Science Student — Machine Learning & App Development
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F92C85&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Mining+%26+NLP+Explorer;Flutter+%26+PHP+Web+Developer;Turning+Data+Into+Decisions;Always+Learning+Something+New" alt="Typing SVG" />
 
@@ -9,8 +11,13 @@
 <img src="https://komarev.com/ghpvc/?username=RegaRI&label=Profile+Views&color=F92C85&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/badge/Status-Studying-6C2CF9?style=for-the-badge" alt="Status" />
 <img src="https://img.shields.io/badge/Focus-ML%20%7C%20NLP%20%7C%20App%20Dev-F92C85?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/github/followers/RegaRI?style=for-the-badge&color=F92C85&label=Followers" alt="Followers" />
 
 </div>
+
+<br>
+
+---
 
 <br>
 
@@ -36,6 +43,10 @@ const rega = {
 
 <br>
 
+---
+
+<br>
+
 ## Tech Stack
 
 <div align="center">
@@ -53,6 +64,8 @@ const rega = {
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" />
 
 </div>
+
+<br>
 
 <table align="center">
   <tr>
@@ -76,6 +89,10 @@ const rega = {
     </td>
   </tr>
 </table>
+
+<br>
+
+---
 
 <br>
 
@@ -128,27 +145,14 @@ const rega = {
 
 <br>
 
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RegaRI&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RegaRI&theme=radical&hide_border=true" height="165"/>
+---
 
 <br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RegaRI&theme=react-dark&hide_border=true&area=true" width="100%"/>
-
-</div>
-
-<br><br>
 
 <div align="center">
 
 ### Let's Connect
 
 <i>Thanks for stopping by — feel free to explore my repositories.</i>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C2CF9,100:F92C85&height=100&section=footer" width="100%"/>
 
 </div>
